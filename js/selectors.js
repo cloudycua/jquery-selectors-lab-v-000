@@ -20,6 +20,7 @@ function imageSelector(){
   return $("img[alt='cat sleeping']")
 }
 
+// all checkbox inputs
 function checkboxInputSelector(){
   return $('')
 }
