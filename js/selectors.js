@@ -22,5 +22,5 @@ function imageSelector(){
 
 // all checkbox inputs
 function checkboxInputSelector(){
-  return $('')
+  return $('input[type="checkbox"]')
 }
