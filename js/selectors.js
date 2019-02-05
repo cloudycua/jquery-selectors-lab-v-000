@@ -17,7 +17,7 @@ function linkSelector(){
 
 // image of at w/ alt text "cat sleeping"
 function imageSelector(){
-  return $('')
+  return $("img[alt='cat sleeping']")
 }
 
 function checkboxInputSelector(){
