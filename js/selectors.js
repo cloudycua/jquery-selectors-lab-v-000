@@ -15,6 +15,7 @@ function linkSelector(){
   return $('#box4.box5 a')
 }
 
+// image of at w/ alt text "cat sleeping"
 function imageSelector(){
   return $('')
 }
